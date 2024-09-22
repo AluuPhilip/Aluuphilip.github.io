@@ -41,11 +41,10 @@ The "Tuberculosis Insight" repository presents a comprehensive analysis of globa
 ![Dashboard 2](https://github.com/AluuPhilip/Global-Tuberculosis-Insight/assets/157082605/ced9a850-782b-4f2f-8ef5-aab981294cf3)
 
 
-## Adventure Sales Dashboard (2005-2008)
+## ![Adventure Sales Dashboard](https://github.com/AluuPhilip/Adventure-sales)
 
 ## Project Overview
 This project focuses on analyzing and visualizing sales data for AdventureWorks over a period from 2005 to 2008. The dashboard provides insights into customer growth, product performance, regional sales, and profitability. The data was prepared and processed using **Excel**, **Python**, and **SQL**, and visualized using **Power BI** to create an interactive and informative dashboard.
-
 
 ![Screenshot 2024-05-02 184002](https://github.com/user-attachments/assets/7586f51e-99d6-49bf-b7db-4c876aece710)
 ## [ Project_1](https://github.com/AluuPhilip/Tech_salary) :
