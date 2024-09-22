@@ -47,7 +47,8 @@ The "Tuberculosis Insight" repository presents a comprehensive analysis of globa
 This project focuses on analyzing and visualizing sales data for AdventureWorks over a period from 2005 to 2008. The dashboard provides insights into customer growth, product performance, regional sales, and profitability. The data was prepared and processed using **Excel**, **Python**, and **SQL**, and visualized using **Power BI** to create an interactive and informative dashboard.
 
 ![Screenshot 2024-05-02 184002](https://github.com/user-attachments/assets/7586f51e-99d6-49bf-b7db-4c876aece710)
-## [ Project_1](https://github.com/AluuPhilip/Tech_salary) :
+
+## [Tech_salary Dashboard](https://github.com/AluuPhilip/Tech_salary) :
 The data analysis was carried out to provide insight into the Various Salaries of Data Tech experts of different categories , across countries from 2020 to 2022
 
 ![Tech_salary](https://github.com/AluuPhilip/Tech_salary/assets/157082605/c3b8f542-5982-4efc-a93a-d058121594d1)
