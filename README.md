@@ -50,9 +50,9 @@ This project focuses on analyzing and visualizing sales data for AdventureWorks 
 ## [ Project_1](https://github.com/AluuPhilip/Tech_salary) :
 The data analysis was carried out to provide insight into the Various Salaries of Data Tech experts of different categories , across countries from 2020 to 2022
 
-![Dashboard 1 (2)](https://github.com/AluuPhilip/Tech_salary/assets/157082605/c3b8f542-5982-4efc-a93a-d058121594d1)
+![Tech_salary](https://github.com/AluuPhilip/Tech_salary/assets/157082605/c3b8f542-5982-4efc-a93a-d058121594d1)
 
-## [Project_2](https://github.com/AluuPhilip/Global-Terrorism) :
+## [Global-Terrorism](https://github.com/AluuPhilip/Global-Terrorism) :
 
 This report presents a comprehensive analysis of global terrorism from 1970 to 2017. The data encompasses 181,000 terrorist attacks worldwide, resulting in over 1 million casualties, including 474,280 deaths and 539,710 injuries. The analysis covers trends over time, geographical distribution, target types, and methods of attack. Based on these findings, recommendations are provided to enhance counterterrorism strategies and mitigate the impact of future attacks.
 
